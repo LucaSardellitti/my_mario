@@ -1,0 +1,78 @@
+#map{
+	margin-top: 0.2%;
+	margin-left: 0.7%;
+	background: url('../img/fond-mario.png');
+	/*background-size: 59% 100%;*/
+	background-size: 99% 100%;
+	background-position: absolute;
+    background-repeat: no-repeat;
+}
+
+.koopa{
+	width: 22.5px;
+	height: 26px;
+	position: absolute;
+	/*margin-top: -0.8%;*/
+	margin-left: 0.8%;
+}
+
+/*.koopaFly{
+	width: 22.5px;
+	height: 26px;
+	position: absolute;
+	margin-top: -0.5%;
+	margin-left: 0.8%;
+}*/
+
+.goomba{
+	width: 22.5px;
+	height: 26px;
+	position: absolute;
+	margin-left: 0.8%;
+}
+
+.boo{
+	width: 22.5px;
+	height: 26px;
+	position: absolute;
+}
+
+.bowser{
+	width: 45px;
+	height: 53px;
+	/*width: 22.5px;*/
+	/*height: 26px;*/
+	position: absolute;
+	margin-top: -1.5%;
+	/*margin-top: -0.5%;*/
+	margin-left: 0.8%;
+}
+
+.mario{
+	width: 22.5px;
+	height: 26px;
+	position: absolute;
+	margin-top: 0.1%;
+	margin-left: 0.8%;
+}
+
+.peach{
+	width: 35px;
+	height: 35px;
+	position: absolute;
+	margin-top: -8px;
+	margin-left: -5px; 
+}
+.murs{
+	width: 22.5px;
+	height: 26px;
+}
+
+.vide{
+	width: 22.5px;
+	height: 26px;
+}
+
+.ligne{
+	height: 26px;
+}
